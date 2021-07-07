@@ -1,12 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=200&text=YURIM%KIM!&desc=Front-end%Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
+![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=300&text=YURIM%KIM!&desc=Front-end%Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
 
+<div align=center>
 
-
-<!-- <div align=center> -->
-
-
-Hi there 👋
+Hi there 👋 <br />
 👩🏻‍💻 I'm a Front-end Developer
 
 <br /><br />
@@ -23,7 +20,7 @@ Hi there 👋
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yurim45)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- </div> -->
+</div>
 
 <!--
 **yurim45/yurim45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
