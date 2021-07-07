@@ -1,13 +1,13 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=ECCEF5&height=400&text=YURIM%KIM!&desc=Front-end%Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=30)
+![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=200&text=YURIM KIM!&desc=Front-end Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
 
 
 
 <!-- <div align=center> -->
 
 
-### Hi there 👋
-# 👩🏻‍💻 I'm a Front-end Developer
+Hi there 👋
+👩🏻‍💻 I'm a Front-end Developer
 
 <br /><br />
   
