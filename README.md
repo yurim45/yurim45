@@ -1,8 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=300&text=YURIM%KIM!&desc=Front-end%Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
+
 
 <div align=center>
-
+  
+![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=300&text=YURIM%KIM!&desc=Front-end%Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
+  
 Hi there 👋 <br />
 👩🏻‍💻 I'm a Front-end Developer
 
