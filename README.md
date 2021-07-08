@@ -3,12 +3,12 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=300&text=YURIM%KIM!&desc=Front-end%Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
+![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=250&text=YURIM%KIM!&desc=Front-end%Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
   
 Hi there 👋 <br />
 👩🏻‍💻 I'm a Front-end Developer
 
-<br /><br />
+<br />
   
 ## Contact.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icho0405@gmail.com)](mailto:icho0405@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@april_5/)](https://zzsza.github.io/)
