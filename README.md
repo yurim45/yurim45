@@ -1,6 +1,4 @@
 
-
-
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=250&text=YURIM%KIM!&desc=Frontend-Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
@@ -31,6 +29,7 @@
 <br />
   
 
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yurim45)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -46,6 +45,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ..
+- ⚡ Fun fact: ..
 -->
