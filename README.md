@@ -11,27 +11,34 @@
   
 ## Contact.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icho0405@gmail.com)](mailto:icho0405@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@april_5)](https://velog.io/@april_5)
-<br />
+<br /><br /> 
 
-  
+
 <!-- https://simpleicons.org/ -->
   
 ## Technical Stack.
   <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=fffff">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <br />
-<!-- <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" /> -->
+  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" />  <br /> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />  
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <br />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /> <br />
   <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-<br />
-  
 
+<br /><br />
+
+## Deploy Status.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66cdb219-296e-4862-a9db-989c89c43792/deploy-status)](https://app.netlify.com/sites/easy-work-app/deploys)
+
+
+<br />
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yurim45)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
