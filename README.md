@@ -7,7 +7,6 @@
 **👩🏻‍💻 I'm a Frontend Developer**
 
 <br />
-
   
 ## Contact.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icho0405@gmail.com)](mailto:icho0405@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@april_5)](https://velog.io/@april_5)
