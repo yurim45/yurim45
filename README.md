@@ -33,9 +33,6 @@
 
 <br /><br />
 
-## Deploy Status.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/66cdb219-296e-4862-a9db-989c89c43792/deploy-status)](https://app.netlify.com/sites/easy-work-app/deploys)
-
 
 <br />
 <br />
