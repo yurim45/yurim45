@@ -5,6 +5,7 @@
 
 
 
+
  
 
 ![header](https://capsule-render.vercel.app/api?color=ECCEF5&height=250&text=YURIM%KIM!&desc=Frontend-Developer&animation=fadeIn&fontColor=1C1C1C&fontSize=40&descSize=20)
